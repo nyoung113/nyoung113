@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 
 ![nyoung113's github stats](https://github-readme-stats.vercel.app/api?username=nyoung113&show_icons=true)
+
+[![nyoung113's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyoung113&layout=compact)](https://github.com/nyoung113/github-readme-stats)

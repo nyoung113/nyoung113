@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/tailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
 
 <br />
-<img src="https://img.shields.io/badge/react-query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/react-hook-form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"> 
+<img src="https://img.shields.io/badge/react-query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"> 
 
 - 🔭 I’m currently working on React, TypeScript, Next.js
 - 🌱 I’m currently learning Next.js, TypeScript, frontend test with jest or vitest.

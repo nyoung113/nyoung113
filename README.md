@@ -11,13 +11,20 @@
 <img src="https://img.shields.io/badge/react-query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"> 
 
 - 🔭 I’m currently working on React, TypeScript, Next.js
-- 🌱 I’m currently learning Next.js, TypeScript, frontend test with jest or vitest.
+
+- 🌱 I’m currently learning Next.js, TypeScript, frontend test with jest and vitest.
+
 - 👯 I’m looking to collaborate on anyone who is interested with development or side project
+
 - 🤔 I’m looking for help with Next.js, testcode
-- 💬 Ask me about HTML, CSS, JavaScript, React or anything you want to talk about! 
-- 📫 How to reach me: knyoung0113@gmail.com 
+
+- 💬 Ask me about ANYTHING! free to talk.
+
+- 📫 How to reach me: knyoung0113@gmail.com
+
 - 😄 Pronouns: she / her
-- ⚡ Fun fact:
+
+
 
 
 

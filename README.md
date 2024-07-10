@@ -16,9 +16,9 @@
 
 - 👯 I’m looking to collaborate on anyone who is interested with development or side project
 
-- 🤔 I’m looking for help with Next.js, testcode
+- 🤔 I’m looking for help with Next.js, test code 
 
-- 💬 Ask me about ANYTHING! free to talk.
+- 💬 Ask me about ANYTHING! fill free to talk.
 
 - 📫 How to reach me: knyoung0113@gmail.com
 

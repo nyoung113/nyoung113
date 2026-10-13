@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=656DF7&background=CA84FF00&center=true&vCenter=true&random=false&width=600&lines=welcome+to+nyoung's+github!)](https://git.io/typing-svg)
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" width="100%" />
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph" width="100%" />
 
 
 

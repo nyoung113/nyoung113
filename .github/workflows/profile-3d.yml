@@ -18,6 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Remove language pie chart
+        run: python3 scripts/remove-pie-chart.py profile-3d-contrib
       - name: Commit & Push
         run: |
           git config user.name github-actions
